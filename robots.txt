@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://peredorutani.pages.dev/sitemap.xml
